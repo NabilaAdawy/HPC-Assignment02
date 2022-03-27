@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment02_Task2.cpp
+D:\IU\Spring 22\1st Block\HPC\Assigment 2\Assignment02\Assignment02\Assignment02_Task2.cpp(115,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\IU\Spring 22\1st Block\HPC\Assigment 2\Assignment02\Assignment02\Assignment02_Task2.cpp(126,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\IU\Spring 22\1st Block\HPC\Assigment 2\Assignment02\Assignment02\Assignment02_Task2.cpp(179,25): warning C4129: 'P': unrecognized character escape sequence
+D:\IU\Spring 22\1st Block\HPC\Assigment 2\Assignment02\Assignment02\Assignment02_Task2.cpp(179,25): warning C4129: 'g': unrecognized character escape sequence
+  Assignment02.vcxproj -> D:\IU\Spring 22\1st Block\HPC\Assigment 2\Assignment02\x64\Debug\Assignment02_Task2.exe
